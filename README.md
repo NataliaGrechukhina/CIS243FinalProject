@@ -1,5 +1,5 @@
 # CIS243FinalProject
-Sweet-shop
+Cake-shop
 This website was created by Natalia Grechukhina to show what knowledge of CIS 243 Web III Intro to PHP class was gained during this Winter Quarter 2021.
 
 This website created in CMS system WordPress.
